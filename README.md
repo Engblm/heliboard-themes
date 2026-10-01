@@ -38,6 +38,22 @@ All themes have customized gestured trails even if I have not shared the specifi
 | **[E-Ink Black](themes/EinkBlack.json)**       | ![E-Ink Black](previews/EInkBlack.jpg)                                                                       | Absolute OLED black with stark white text, designed for maximum contrast and zero dithering |
 | **[E-Ink White](themes/EinkWhite.json)**       | ![E-Ink White](previews/EInkWhite.jpg)                                                                       | Pure white background with hard black text and keys, optimized to prevent e-ink ghosting    |
 
+### October Updates
+
+| Theme                                                      | Preview                                                                              | Style                                                                                                                   |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| **[Bright Pastel](themes/RosePineMain.json)**              | ![BrightPastel](previews/BrightPastel.jpg)                                           | Soft cream background paired with a vibrant pink toolbar and gentle pastel keys.                                        |
+| **[Green&Cream](themes/Green&Cream.json)**                 | ![Green&Cream](previews/Green&Cream1.jpg)  ![Green&Cream](previews/Green&Cream2.jpg) | Soothing off-white base featuring soft green accent keys, a green glide trail, and dark green typography.               |
+| **[Mellow Rainbow Dark](themes/MellowRainbowDark.json)**   | ![MellowRainbowDark](previews/MellowRainbowDark.jpg)                                 | Deep charcoal background with subtle, muted grey keycaps for a clean night-typing experience and mellow rainbow accents |
+| **[Mellow Rainbow Light](themes/MellowRainbowLight.json)** | ![MellowRainbowLight](previews/MellowRainbowLight.jpg)                               | Warm cream background featuring playful rainbow accents, a pink glide trail, and a contrasting blue enter key           |
+| **[Sea Green Gold](themes/SeaGreenGold.json)**             | ![SeaGreenGold](previews/SeaGreenGold.jpg)                                           | Deep oceanic teal background highlighted by striking gold accents and a smooth golden glide trail                       |
+| **[Shiny Rainbow Dark](themes/ShinyRainbowDark.json)**     | ![ShinyRainbowDark](previews/ShinyRainbowDark.jpg)                                   | Rich navy-purple base offset by a bright rainbow color keys                                                             |
+| **[Teal Vibes Light](themes/TealVibesLight.json)**         | ![TealVibesLight](previews/TealVibesLight.jpg)                                       | Crisp white background with teal lettering, balanced by warm orange accent keys                                         |
+| **[Transpy](themes/Transpy.json)**                         | ![Transpy](previews/Transpy1.jpg)    ![Transpy](previews/Transpy2.jpg)               | This is an adventurous theme - sleek, fully transparent layout. Works best with dark Android theme                      |
+
+
+> **Additional Rose Pine themes available here: [Rosé Pine for HeliBoard](https://github.com/Star-Trowa/heliboard)**
+
 ---
 
 ## How to Install
@@ -92,6 +108,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 - Vesnea palettes somewhat inspired from [vesnea-theme.com](https://github.com/seavalanche/vesnea-obsidian-theme)
 - Gundam Wing [Wallpaper](https://i.pximg.net/img-master/img/2025/10/19/18/02/28/136462395_p0_master1200.jpg) by [スワぽん](https://www.pixiv.net/en/users/15476858)
 - Rose Piné Palette from [Rose Piné Theme](https://rosepinetheme.com/palette)
+- Mellow Palette from [Mellow](https://github.com/mellow-theme/mellow.nvim)
 
 **Check out my other [projects](https://github.com/Star-Trowa) if you're interested.**
 
